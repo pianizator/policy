@@ -1,9 +1,5 @@
 # Privacy Policy for flat pool
 
-**Effective date:** [YYYY-MM-DD]  
-**Developer:** [YOUR LEGAL NAME OR COMPANY]  
-**Contact:** [YOUR_SUPPORT_EMAIL]  
-**App:** flat pool (`com.dogma7.pool`)
 
 This Privacy Policy describes how flat pool (“the App”) handles information. By using the App, you agree to this policy.
 
@@ -70,8 +66,8 @@ We may update this Privacy Policy from time to time. The “Effective date” at
 
 Questions about this Privacy Policy or the App:
 
-**Email:** [YOUR_SUPPORT_EMAIL]  
-**Developer:** [YOUR LEGAL NAME OR COMPANY]
+**Email:** [seventh6912@gmail.com]  
+**Developer:** [Evgenii Cherniakov]
 
 ---
 
